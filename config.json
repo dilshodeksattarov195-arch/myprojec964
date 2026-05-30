@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymenteync",
+        "uuid": 8140016,
+        "checksum": "lkoi8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
